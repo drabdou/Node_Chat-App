@@ -1,2 +1,2 @@
-# Node_Chat-App
-## Chat application using Node.Js, socket.io 
+## Chat-App
+# Chat application built with Node.js, express and Socket.io
